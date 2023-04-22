@@ -12,7 +12,7 @@
 - 📝 I studied at Ananda College 
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
-	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
+	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/MarianCCulea?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianCCulea&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=MarianCCulea&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
@@ -75,7 +75,7 @@
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="thenuka99" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarianCCulea&layout=compact&theme=algolia" alt="MarianCCulea" />
  </a>
 </p>
 
@@ -83,5 +83,5 @@
 [linkedin]: https://www.linkedin.com/in/janith-thenuka-herath-1345661a5 
 
 ------
-Credit: [thenuka99](https://github.com/thenuka99)
-12/01/2023
+Credit: [MarianCCulea](https://github.com/MarianCCulea)
+01/01/2023

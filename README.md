@@ -5,13 +5,13 @@
 
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
-
+- 🔭  I’m currently working on something cool 😉
+- 🌱  I’m currently learning Flutter, Go
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **marianclaudiu.culea@gmail.com**
 - 📝 I studied at VIA University College 
 - 💬 Ask me about: anything, I am happy to help
-- 	<img src="https://komarev.com/ghpvc/?username=MarianCCulea&label=Profile%20views&color=brightgreen&style=plastic" alt="Marian's profile views" /> 
-	<a href="https://github.com/MarianCCulea?tab=followers"><img src="https://img.shields.io/github/followers/MarianCCulea?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <br><br><br><br>
 
 <p align="center">

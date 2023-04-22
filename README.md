@@ -1,7 +1,7 @@
 
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
-### Hi there 👋 I am Janith Thenuka Herath aka thenuka99
+### Hi there 👋 I am Marian-Claudiu Culea aka MarianCCulea
 
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
@@ -20,7 +20,7 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianCCulea&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
 </p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
 </p>

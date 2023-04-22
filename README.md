@@ -1,5 +1,5 @@
 
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ <img align="right" height="270px" alt="guy" width="350" src="https://33.media.tumblr.com/bfb20b586b13bf708c472f7e93174cf1/tumblr_nsff7rKdm51s4fz4bo1_500.gif" /> </a>
  
 ### Hi there 👋 I am Marian-Claudiu Culea aka MarianCCulea
 

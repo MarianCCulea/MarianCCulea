@@ -1,9 +1,8 @@
 
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ <img align="right" height="270px" alt="guy" width="350" src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" /> </a>
  
 ### Hi there 👋 I am Marian-Claudiu Culea aka MarianCCulea
 
-> I am a hardworking individual who is dedicated towards his goals.
 <br />
 
 
@@ -18,14 +17,11 @@
 <br><br><br><br>
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+ <i><b>Git Activeness</b></i>
 </p>
  
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianCCulea&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=MarianCCulea&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
-</p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianCCulea&show_icons=true&include_all_commits=true&theme=synthwave_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianCCulea&layout=compact&theme=synthwave_border=true" /></a> |
+| ------------- | ------------- |
 
 <br><br><br><br><br><br><br><br>
 
@@ -68,9 +64,9 @@
   <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img  alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
   <img  alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img  alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img  alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-
  </div>
  
 <br><br><br><br>
@@ -82,7 +78,7 @@
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarianCCulea&layout=compact&theme=algolia" alt="MarianCCulea" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarianCCulea&layout=compact&theme=synthwave" alt="MarianCCulea" />
  </a>
 </p>
 

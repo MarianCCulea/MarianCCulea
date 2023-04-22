@@ -5,6 +5,8 @@
 
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
+- 📫 How to reach me **marianclaudiu.culea@gmail.com**
+- 📝 I studied at VIA University College 
 - 🔭  I’m currently working on something cool 😉
 - 🌱  I’m currently learning Python, NextJS
 - :computer: &nbsp;Connect with me on **[LinkedIn]**

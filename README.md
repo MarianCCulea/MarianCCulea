@@ -1,5 +1,5 @@
 
- <img align="right" height="270px" alt="guy" width="350" src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" /> </a>
+ <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
 ### Hi there 👋 I am Marian-Claudiu Culea aka MarianCCulea
 
@@ -20,8 +20,12 @@
  <i><b>Git Activeness</b></i>
 </p>
  
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarianCCulea&show_icons=true&include_all_commits=true&theme=synthwave_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianCCulea&layout=compact&theme=synthwave_border=true" /></a> |
-| ------------- | ------------- |
+ 
+ <p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianCCulea&langs_count=10&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="thenuka" />
+</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=MarianCCulea&show_icons=true&locale=en&theme=synthwave" alt="thenuka" width="410"/>
+</p>
 
 <br><br><br><br><br><br><br><br>
 

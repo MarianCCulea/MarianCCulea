@@ -80,7 +80,7 @@
 </p>
 
 
-[linkedin]: https://www.linkedin.com/in/janith-thenuka-herath-1345661a5 
+[linkedin]: https://www.linkedin.com/in/marianculea/
 
 ------
 Credit: [MarianCCulea](https://github.com/MarianCCulea)

@@ -73,12 +73,7 @@
   <img  alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
  </div>
  
-<br><br><br><br>
-
- <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-<br>
-
-
+<br><br><br>
 
 [linkedin]: https://www.linkedin.com/in/marianculea/
 

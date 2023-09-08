@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on something cool 😉
+- 🔭 I’m currently working on something that will change the world ! ;)
 - 🌱 I’m currently deep diving into Python, React.js, and Next.js
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **marianclaudiu.culea@gmail.com**

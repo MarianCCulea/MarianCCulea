@@ -8,11 +8,11 @@
 
 
 - 🔭 I’m currently working on something that will change the world ! ;)
-- 🌱 I’m currently deep diving into Python, React.js, and Next.js
+- 🌱 I’m currently deep diving into Python, WebGL, and Next.js
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **marianclaudiu.culea@gmail.com**
-- 📝 I studied at VIA University College 
-- 💬 Ask me about: anything, I am happy to help
+- 📝 I study at Danmarks Tekniske Universitet
+- 💬 Ask me about anything, I have great ideas
 
 <br><br><br><br>
 

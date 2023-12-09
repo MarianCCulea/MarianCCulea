@@ -8,10 +8,9 @@
 
 
 - 🔭 I’m currently working on something that will change the world ! ;)
-- 🌱 I’m currently deep diving into Python, WebGL, and Next.js
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **marianclaudiu.culea@gmail.com**
-- 📝 I study at Danmarks Tekniske Universitet
+- 📝 Studying at Danmarks Tekniske Universitet
 - 💬 Ask me about anything, I have great ideas
 
 <br><br><br><br>
@@ -24,8 +23,7 @@
  <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianCCulea&langs_count=10&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Profile Stats" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=MarianCCulea&show_icons=true&include_all_commits=true&hide=stars,contribs&theme=synthwave" alt="Profile Stats" width="410"/>
-</p>
+
 
 <br><br><br><br><br><br><br><br>
 

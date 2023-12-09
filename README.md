@@ -21,7 +21,7 @@
  
  
  <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianCCulea&langs_count=10&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Profile Stats" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianCCulea&langs_count=10&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Profile Stats" />
 </p>
 
 
@@ -33,7 +33,7 @@
 <div>
   
  <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- <img  alt="Typescript" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%007acc"/>
+ <img  alt="Typescript" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue"/>
  <img  alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
  <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>

@@ -24,9 +24,6 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianCCulea&langs_count=10&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Profile Stats" />
 </p>
 
-
-<br>
-
 ## Technologies I used in a work enviroment
 
 

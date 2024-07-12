@@ -1,13 +1,15 @@
 
  <img align="right" height="270px" alt="guy" width="350" src="https://33.media.tumblr.com/bfb20b586b13bf708c472f7e93174cf1/tumblr_nsff7rKdm51s4fz4bo1_500.gif" /> </a>
  
+```
 { 
-  linkedIn: **[LinkedIn]**
+  linkedIn: **[LinkedIn]** 
   mail: "**marianclaudiu.culea@gmail.com**",
   name: "Marian", 
   occupation: "📝 Studying at Danmarks Tekniske Universitet",
   title: "Software Developer",
 }
+ ```
 
 <br />
 

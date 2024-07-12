@@ -18,12 +18,6 @@
 - 💬 Ask me about anything, I have great ideas
 
 <br><br><br><br>
-
-<p align="center">
- <i><b>Git Activeness</b></i>
-</p>
- 
- 
  <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianCCulea&langs_count=10&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="Profile Stats" />
 </p>
@@ -53,6 +47,8 @@
  <img  alt="GCloud" src ="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
  <img  alt="Git" src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
  <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+ <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+ <img  alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   
   
   
@@ -64,17 +60,10 @@
 
 <div>
   <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+  <img  alt="Typescript" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue"/>
   <img  alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
   <img  alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
   <img  alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img  alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
  </div>
  
 <br><br><br>
-
-[linkedin]: https://www.linkedin.com/in/marianculea/
-
-------
-Credit: [MarianCCulea](https://github.com/MarianCCulea)
-01/01/2023

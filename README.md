@@ -3,12 +3,13 @@
  
 ```ts
 {
-  id : 1,
-  linkedIn: "linkedin.com/in/marianculea/", 
-  mail: "marianclaudiu.culea@gmail.com",
-  name: "Marian-Claudiu", 
-  occupation: "Studying at Danmarks Tekniske Universitet",
-  title: "Software Developer",
+  data:{
+    name: "Marian Claudiu", 
+    linkedIn: "linkedin.com/in/marianculea/", 
+    e-mail: "marianclaudiu.culea@gmail.com",
+    education: "MSc Student at Danmarks Tekniske Universitet",
+    role: "Software Developer",
+  }
 }
  ```
 

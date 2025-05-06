@@ -3,7 +3,7 @@
  
 ```ts
 {
-  data:{
+  data: {
     name: "Marian Claudiu", 
     linkedIn: "linkedin.com/in/marianculea/", 
     e-mail: "marianclaudiu.culea@gmail.com",
@@ -14,9 +14,6 @@
  ```
 
 <br />
-
-- 🔭 I’m currently working on something that will change the world
-- 💬 Ask me about anything, I have great ideas
 
 <br><br><br><br>
  <p>
